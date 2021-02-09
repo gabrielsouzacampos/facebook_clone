@@ -1,5 +1,4 @@
 import 'package:facebook_clone/config/palette.dart';
-import 'package:facebook_clone/data/data.dart';
 import 'package:facebook_clone/models/models.dart';
 import 'package:facebook_clone/widgets/profile_avatar.dart';
 import 'package:flutter/material.dart';
